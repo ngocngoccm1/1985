@@ -1,0 +1,246 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button "Menü öffnen" [active] [ref=e5] [cursor=pointer]
+        - link "1985 ASIA IMBISS" [ref=e7] [cursor=pointer]:
+          - /url: "#top"
+          - generic [ref=e8]: "1985"
+          - generic [ref=e9]: ASIA IMBISS
+      - link "Anrufen" [ref=e10] [cursor=pointer]:
+        - /url: tel:+4921315317561
+  - complementary [ref=e226]:
+    - generic [ref=e227]:
+      - button "Menü schließen" [ref=e228]: ×
+      - link "Home" [ref=e229] [cursor=pointer]:
+        - /url: "#home"
+      - link "Speisekarte" [ref=e230] [cursor=pointer]:
+        - /url: "#menu"
+      - link "Spezialitäten" [ref=e231] [cursor=pointer]:
+        - /url: "#specials"
+      - link "Über uns" [ref=e232] [cursor=pointer]:
+        - /url: "#about"
+      - link "Kontakt" [ref=e233] [cursor=pointer]:
+        - /url: "#contact"
+      - link "0213 15317561" [ref=e234] [cursor=pointer]:
+        - /url: tel:+4921315317561
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - img "Dampfende Pho-Suppe im 1985 Asia Imbiss" [ref=e13]
+      - generic [ref=e14]:
+        - strong [ref=e15]: "1985"
+        - generic [ref=e16]: VIETNAMESE · CHINESE · THAI KITCHEN
+    - generic [ref=e18]:
+      - heading "1985 Asia Imbiss" [level=2] [ref=e19]
+      - generic [ref=e20]:
+        - emphasis [ref=e21]: Frische Aromen. Ehrliche Küche. Seit 1985.
+        - paragraph [ref=e22]: Wir verbinden vietnamesische, chinesische und thailändische Klassiker mit einer unkomplizierten, herzlichen Imbiss-Atmosphäre in Neuss.
+    - generic [ref=e24]:
+      - heading "Unsere Spezialitäten" [level=2] [ref=e25]
+      - generic [ref=e26]:
+        - link "Pho, Bun und gebratene Nudeln Pho · Bun · Nudeln" [ref=e27] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Pho, Bun und gebratene Nudeln" [ref=e28]
+          - generic [ref=e29]: Pho · Bun · Nudeln
+        - link "Pho Bo mit frischen Kräutern Pho Bo" [ref=e30] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Pho Bo mit frischen Kräutern" [ref=e31]
+          - generic [ref=e32]: Pho Bo
+        - link "Restaurant und Küche Frisch aus der Küche" [ref=e33] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Restaurant und Küche" [ref=e34]
+          - generic [ref=e35]: Frisch aus der Küche
+        - link "Pho wird mit Kräutern garniert Handgemacht" [ref=e36] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Pho wird mit Kräutern garniert" [ref=e37]
+          - generic [ref=e38]: Handgemacht
+        - link "Asiatische Getränke Getränke" [ref=e39] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Asiatische Getränke" [ref=e40]
+          - generic [ref=e41]: Getränke
+      - generic [ref=e235]: • • • • •
+      - generic [ref=e42]:
+        - paragraph [ref=e43]: Entdecken Sie unsere Speisekarte und finden Sie Ihr Lieblingsgericht.
+        - link "Speisekarte ansehen" [ref=e44] [cursor=pointer]:
+          - /url: "#menu"
+    - generic [ref=e46]:
+      - heading "Speisekarte" [level=2] [ref=e47]
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - text: Aus unserer Küche
+          - heading "Klassiker, die satt und glücklich machen." [level=3] [ref=e50]
+          - paragraph [ref=e51]: Die folgenden Gerichte wurden aus der aktuellen Karte des 1985 Asia Imbiss übernommen. Bei Fragen zu Zutaten, Allergenen oder Änderungen sprechen Sie uns bitte direkt an.
+        - img "Drei asiatische Gerichte" [ref=e52]
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - heading "Suppen & Vorspeisen Suppe und Vorspeisen" [level=3] [ref=e55]:
+            - text: Suppen & Vorspeisen
+            - generic [ref=e56]: Suppe und Vorspeisen
+          - generic [ref=e57]:
+            - generic [ref=e58]: Peking-Suppe mit Hühnerfleisch
+            - strong [ref=e59]: 4,35 €
+          - generic [ref=e60]:
+            - generic [ref=e61]: Hühnerfleischsuppe mit Gemüse
+            - strong [ref=e62]: 4,00 €
+          - generic [ref=e63]:
+            - generic [ref=e64]: Tom Kha Gai / Tom Kha Gung
+            - strong [ref=e65]: 4,50–5,00 €
+          - generic [ref=e66]:
+            - generic [ref=e67]: Tom Yam Gai / Tom Yam Gung, scharf
+            - strong [ref=e68]: 4,50–5,00 €
+          - generic [ref=e69]:
+            - generic [ref=e70]: Mini-Frühlingsrollen, Veggie Gyoza, Thai Gyoza
+            - strong [ref=e71]: 4,00–5,00 €
+          - generic [ref=e72]:
+            - generic [ref=e73]: Gebackene Garnelen · Edamame · Krabbenchips
+            - strong [ref=e74]: 3,00–5,00 €
+        - generic [ref=e75]:
+          - heading "Gebratene Nudeln mit Gemüse, Ei und …" [level=3] [ref=e76]:
+            - text: Gebratene Nudeln
+            - generic [ref=e77]: mit Gemüse, Ei und …
+          - generic [ref=e78]:
+            - generic [ref=e79]: Gemüse / Tofu
+            - strong [ref=e80]: 8,00 / 9,00 €
+          - generic [ref=e81]:
+            - generic [ref=e82]: Hühnerfleisch / Rindfleisch
+            - strong [ref=e83]: 9,50 / 10,50 €
+          - generic [ref=e84]:
+            - generic [ref=e85]: Garnelen
+            - strong [ref=e86]: 12,00 €
+          - generic [ref=e87]:
+            - generic [ref=e88]: Crispy Chicken / knuspriges Hühnerfleisch
+            - strong [ref=e89]: 10,50 / 11,50 €
+          - generic [ref=e90]:
+            - generic [ref=e91]: Knusprige Ente
+            - strong [ref=e92]: 12,00 €
+          - generic [ref=e93]:
+            - generic [ref=e94]: Bami Goreng, leicht scharf
+            - strong [ref=e95]: 10,50 €
+        - generic [ref=e96]:
+          - heading "Gebratener Reis mit Gemüse, Ei und …" [level=3] [ref=e97]:
+            - text: Gebratener Reis
+            - generic [ref=e98]: mit Gemüse, Ei und …
+          - generic [ref=e99]:
+            - generic [ref=e100]: Gemüse / Tofu
+            - strong [ref=e101]: 8,00 / 9,00 €
+          - generic [ref=e102]:
+            - generic [ref=e103]: Hühnerfleisch / Rindfleisch
+            - strong [ref=e104]: 9,50 / 10,50 €
+          - generic [ref=e105]:
+            - generic [ref=e106]: Garnelen
+            - strong [ref=e107]: 12,00 €
+          - generic [ref=e108]:
+            - generic [ref=e109]: Crispy Chicken / knuspriges Hühnerfleisch
+            - strong [ref=e110]: 10,50 / 11,50 €
+          - generic [ref=e111]:
+            - generic [ref=e112]: Knusprige Ente
+            - strong [ref=e113]: 12,00 €
+          - generic [ref=e114]:
+            - generic [ref=e115]: Nasi Goreng, leicht scharf
+            - strong [ref=e116]: 10,50 €
+        - generic [ref=e117]:
+          - heading "Saucen-Gerichte mit Reis, Gemüse und …" [level=3] [ref=e118]:
+            - text: Saucen-Gerichte
+            - generic [ref=e119]: mit Reis, Gemüse und …
+          - generic [ref=e120]:
+            - generic [ref=e121]: Chop-Suey · Kung-Pao, scharf
+            - strong [ref=e122]: 8,50–12,50 €
+          - generic [ref=e123]:
+            - generic [ref=e124]: Roter Curry mit Kokosmilch, scharf
+            - strong [ref=e125]: Preis auf Anfrage
+          - generic [ref=e126]:
+            - generic [ref=e127]: Gelber Curry, leicht scharf
+            - strong [ref=e128]: Preis auf Anfrage
+          - generic [ref=e129]:
+            - generic [ref=e130]: Mango Curry · Süß-Sauer · Erdnuss · Pfeffer
+            - strong [ref=e131]: Preis auf Anfrage
+        - generic [ref=e132]:
+          - heading "Vietnamesische Spezialitäten mit Salat, Kräutern, Reisnudeln und Fischsauce" [level=3] [ref=e133]:
+            - text: Vietnamesische Spezialitäten
+            - generic [ref=e134]: mit Salat, Kräutern, Reisnudeln und Fischsauce
+          - generic [ref=e135]:
+            - generic [ref=e136]: Bun Tofu
+            - strong [ref=e137]: 10,50 €
+          - generic [ref=e138]:
+            - generic [ref=e139]: Bun Cha Gio
+            - strong [ref=e140]: 11,00 €
+          - generic [ref=e141]:
+            - generic [ref=e142]: Bun Thit Nuong
+            - strong [ref=e143]: 12,00 €
+          - generic [ref=e144]:
+            - generic [ref=e145]: Bun Bo Nam Bo
+            - strong [ref=e146]: 12,00 €
+          - generic [ref=e147]:
+            - generic [ref=e148]: Pho Bo · Nationalgericht aus Vietnam
+            - strong [ref=e149]: 13,00 €
+        - generic [ref=e150]:
+          - heading "Getränke" [level=3] [ref=e151]
+          - generic [ref=e152]:
+            - generic [ref=e153]: Alt / Pils, Flasche 0,50 l
+            - strong [ref=e154]: 2,00 €
+          - generic [ref=e155]:
+            - generic [ref=e156]: Cola, Fanta, Sprite, Dose 0,33 l
+            - strong [ref=e157]: 2,00 €
+          - generic [ref=e158]:
+            - generic [ref=e159]: Cola, Fanta, Sprite, Flasche 1 l
+            - strong [ref=e160]: 3,50 €
+          - generic [ref=e161]:
+            - generic [ref=e162]: "Asia-Fruchtsäfte: Lychee, Mango, Kokos"
+            - strong [ref=e163]: 3,00 €
+      - paragraph [ref=e164]: "Zusatzstoffe: 1 Farbstoff · 2 Konservierungsstoff · 3 Antioxidationsmittel · 4 Geschmacksverstärker · 6 Schwärze · 7 Wachs · 8 Phosphat. Allergene: a Eier · b Fisch · c Krebstiere · d Milch · h Erdnüsse · m Sojabohnen · n Weichtiere · i Weizen."
+    - generic [ref=e166]:
+      - heading "Unser Imbiss" [level=2] [ref=e167]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - heading "Frisch aus der Küche" [level=3] [ref=e170]
+          - paragraph [ref=e171]: Bei uns wird direkt vor Ort gekocht, gewürzt und angerichtet. Kräuter, Brühe und Wokgerichte bekommen die Aufmerksamkeit, die sie verdienen.
+          - generic [ref=e172]:
+            - strong [ref=e173]: Zum Mitnehmen oder vor Ort genießen
+            - link "0213 15317561" [ref=e174] [cursor=pointer]:
+              - /url: tel:+4921315317561
+        - img "Koch garniert eine Pho-Suppe" [ref=e175]
+      - generic [ref=e176]:
+        - img "Innenraum des Asia Imbiss" [ref=e177]
+        - generic [ref=e178]:
+          - heading "Einfach ankommen" [level=3] [ref=e179]
+          - paragraph [ref=e180]: Ein kleiner, warmer Ort in Neuss für eine schnelle Mittagspause, ein entspanntes Abendessen oder dein Lieblingsgericht zum Mitnehmen.
+          - link "Kontakt & Öffnungszeiten" [ref=e181] [cursor=pointer]:
+            - /url: "#contact"
+    - generic [ref=e183]:
+      - heading "Mehr entdecken" [level=2] [ref=e184]
+      - paragraph [ref=e185]: Asiatische Küche, frisch und herzlich serviert.
+    - generic [ref=e198]:
+      - heading "Kontakt" [level=2] [ref=e199]
+      - generic [ref=e200]:
+        - generic [ref=e201]:
+          - heading "Bis gleich in Neuss." [level=3] [ref=e202]
+          - paragraph [ref=e203]: Jülicher 3641464 Neuss, Deutschland
+          - paragraph [ref=e204]: Montag – Sonntag11:00 – 21:00 Uhr
+          - link "Route planen" [ref=e205] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Jülicher+36%2C+41464+Neuss
+        - img "Asiatische Gerichte zum Mitnehmen" [ref=e206]
+  - contentinfo [ref=e207]:
+    - generic [ref=e208]:
+      - generic [ref=e209]:
+        - generic [ref=e210]:
+          - link "1985ASIA IMBISS" [ref=e211] [cursor=pointer]:
+            - /url: "#top"
+          - paragraph [ref=e212]: Vietnamesische, chinesische und thailändische Küche in Neuss.
+        - generic [ref=e213]:
+          - heading "Öffnungszeiten" [level=4] [ref=e214]
+          - paragraph [ref=e215]: Montag – Sonntag11:00 – 21:00 Uhr
+        - generic [ref=e216]:
+          - heading "Links" [level=4] [ref=e217]
+          - link "Speisekarte" [ref=e218] [cursor=pointer]:
+            - /url: "#menu"
+          - link "Über uns" [ref=e219] [cursor=pointer]:
+            - /url: "#about"
+          - link "Kontakt" [ref=e220] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e221]:
+          - heading "Kontakt" [level=4] [ref=e222]
+          - link "0213 15317561" [ref=e223] [cursor=pointer]:
+            - /url: tel:+4921315317561
+          - link "Jülicher 36, Neuss" [ref=e224] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Jülicher+36%2C+41464+Neuss
+      - generic [ref=e225]: © 2026 1985 Asia Imbiss · Alle Rechte vorbehalten.
