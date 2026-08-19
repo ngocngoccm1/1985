@@ -56,6 +56,11 @@
 .menu-note{display:none}
 @media(min-width:768px){.menu-grid{padding-top:30px}.menu-grid .menu-group{border-right:1px solid #7f977d;padding-left:18px;padding-right:22px}.menu-grid .menu-group:nth-child(3),.menu-grid .menu-group:nth-child(14),.menu-grid .menu-group:nth-child(18){border-right:0}}
 @media(max-width:767px){.menu-section .section-title{min-height:62px;font-size:26px}.menu-grid{border-left:0;border-right:0;padding:22px 12px 4px}.menu-grid .menu-group{padding-left:4px;padding-right:4px}.menu-grid .menu-group h3{font-size:20px}.menu-grid .menu-item{font-size:12px}.menu-grid .menu-item strong{font-size:12px}}
+.menu-grid{grid-template-rows:none!important}
+.menu-column{min-width:0;display:flex;flex-direction:column;gap:22px}
+.menu-column .menu-group{margin:0!important;border-right:0!important}
+@media(min-width:768px){.menu-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))!important;grid-template-rows:none!important;align-items:start}.menu-column{border-right:1px solid #7f977d;padding:0 18px}.menu-column:last-child{border-right:0}}
+@media(max-width:767px){.menu-grid{display:flex;flex-direction:column;gap:22px}.menu-column{gap:22px}}
 </style>
 </head>
 <body>
@@ -104,7 +109,11 @@ const finalMenu = `<div class="menu-group"><h3>Suppen und Vorspeisen</h3>
 <div class="menu-group"><h3>Getränke</h3><div class="menu-item"><span>G1. Alt <small>Fl. 0,50L</small></span><strong>2,00€</strong></div><div class="menu-item"><span>G2. Pils <small>Fl. 0,50L</small></span><strong>2,00€</strong></div><div class="menu-item"><span>G3. Cola, Fanta, Sprite <small>Dose 0,33L</small></span><strong>2,00€</strong></div><div class="menu-item"><span>G4. Cola, Fanta, Sprit <small>Fl. 1L</small></span><strong>3,50€</strong></div><div class="menu-item"><span>G5. Asia-Fruchtsäfte Lychee, Mango, Kokos <small>Dose 0,25L</small></span><strong>3,00€</strong></div></div>
 <div class="menu-group"><h3>Inhaltsstoffe</h3><p>1. Farbstoff &nbsp;|&nbsp; 2. Konservierungsstoff &nbsp;|&nbsp; 3. Antioxidationsmittel<br>4. Geschmacksverstärker &nbsp;|&nbsp; 5. Schwelte &nbsp;|&nbsp; 6. Schwarze<br>7. Wachs &nbsp;|&nbsp; 8. Phosphat</p></div>
 <div class="menu-group"><h3>Allergene</h3><p>a. Eier &nbsp;|&nbsp; b. Fisch &nbsp;|&nbsp; c. Krebstiere &nbsp;|&nbsp; d. Milch<br>h. Erdnüsse &nbsp;|&nbsp; m. Sojabohnen &nbsp;|&nbsp; n. Weichtiere &nbsp;|&nbsp; i. Weizen</p></div>`;
-document.querySelector('#menu .menu-grid').innerHTML = finalMenu;
+const menuGrid=document.querySelector('#menu .menu-grid');
+const menuGroups=[...document.createRange().createContextualFragment(finalMenu).children];
+const menuColumns=[[0,1,2],[3,4,5,6,11,12,13],[7,8,9,10,14,15,16,17]];
+menuGrid.innerHTML='<div class="menu-column"></div><div class="menu-column"></div><div class="menu-column"></div>';
+menuColumns.forEach((indexes,columnIndex)=>indexes.forEach(groupIndex=>menuGrid.children[columnIndex].append(menuGroups[groupIndex])));
 document.querySelectorAll('a[href^="tel:"]').forEach(a=>{a.href='tel:+4921316647768';if(/0213/.test(a.textContent))a.textContent='0213 16647768'});
 const drawer=document.getElementById('drawer');const setMenu=open=>{drawer.classList.toggle('open',open);drawer.setAttribute('aria-hidden',String(!open));document.body.classList.toggle('menu-open',open)};document.getElementById('openMenu').addEventListener('click',()=>setMenu(true));document.getElementById('closeMenu').addEventListener('click',()=>setMenu(false));drawer.addEventListener('click',e=>{if(e.target===drawer)setMenu(false)});drawer.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>setMenu(false)));document.addEventListener('keydown',e=>{if(e.key==='Escape')setMenu(false)});
 </script>
