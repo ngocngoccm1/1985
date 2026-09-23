@@ -1,0 +1,815 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e3]:
+      - generic [ref=f3e4]:
+        - button "Menü öffnen" [ref=f3e5] [cursor=pointer]
+        - link "1985 ASIA IMBISS" [ref=f3e7] [cursor=pointer]:
+          - /url: "#top"
+          - generic [ref=f3e8]: "1985"
+          - generic [ref=f3e9]: ASIA IMBISS
+      - link "Anrufen" [ref=f3e10] [cursor=pointer]:
+        - /url: tel:+4921316647768
+  - main [ref=f3e11]:
+    - generic [ref=f3e12]:
+      - img "Dampfende Pho-Suppe im 1985 Asia Imbiss" [ref=f3e13]
+      - generic [ref=f3e14]:
+        - strong [ref=f3e15]: "1985"
+        - generic [ref=f3e16]: VIETNAMESE · CHINESE · THAI KITCHEN
+    - generic [ref=f3e18]:
+      - heading "1985 Asia Imbiss" [level=2] [ref=f3e19]
+      - generic [ref=f3e20]:
+        - emphasis [ref=f3e21]: Frische Aromen. Ehrliche Küche. Seit 1985.
+        - paragraph [ref=f3e22]: Wir verbinden vietnamesische, chinesische und thailändische Klassiker mit einer unkomplizierten, herzlichen Imbiss-Atmosphäre in Neuss.
+    - generic [ref=f3e24]:
+      - heading "Unsere Spezialitäten" [level=2] [ref=f3e25]
+      - generic [ref=f3e26]:
+        - link "Pho, Bun und gebratene Nudeln Pho · Bun · Nudeln" [ref=f3e27] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Pho, Bun und gebratene Nudeln" [ref=f3e28]
+          - generic [ref=f3e29]: Pho · Bun · Nudeln
+        - link "Pho Bo mit frischen Kräutern Pho Bo" [ref=f3e30] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Pho Bo mit frischen Kräutern" [ref=f3e31]
+          - generic [ref=f3e32]: Pho Bo
+        - link "Restaurant und Küche Frisch aus der Küche" [ref=f3e33] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Restaurant und Küche" [ref=f3e34]
+          - generic [ref=f3e35]: Frisch aus der Küche
+        - link "Pho wird mit Kräutern garniert Handgemacht" [ref=f3e36] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Pho wird mit Kräutern garniert" [ref=f3e37]
+          - generic [ref=f3e38]: Handgemacht
+        - link "Asiatische Getränke Getränke" [ref=f3e39] [cursor=pointer]:
+          - /url: "#menu"
+          - img "Asiatische Getränke" [ref=f3e40]
+          - generic [ref=f3e41]: Getränke
+      - generic [ref=f3e42]: • • • • •
+      - generic [ref=f3e43]:
+        - paragraph [ref=f3e44]: Entdecken Sie unsere Speisekarte und finden Sie Ihr Lieblingsgericht.
+        - link "Speisekarte ansehen" [ref=f3e45] [cursor=pointer]:
+          - /url: "#menu"
+    - generic [ref=f3e47]:
+      - heading "Speisekarte" [level=2] [ref=f3e48]
+      - generic [ref=f3e49]:
+        - generic [ref=f3e50]:
+          - text: Aus unserer Küche
+          - heading "Klassiker, die satt und glücklich machen." [level=3] [ref=f3e51]
+          - paragraph [ref=f3e52]: Die folgenden Gerichte wurden aus der aktuellen Karte des 1985 Asia Imbiss übernommen. Bei Fragen zu Zutaten, Allergenen oder Änderungen sprechen Sie uns bitte direkt an.
+        - img "Drei asiatische Gerichte" [ref=f3e53]
+      - generic [ref=f3e54]:
+        - generic [ref=f3e55]:
+          - heading "Suppen und Vorspeisen" [level=3] [ref=f3e56]
+          - generic [ref=f3e57]:
+            - generic [ref=f3e58]:
+              - text: 1. Peking-Suppe mit Hühnerfleisch, sauer-scharf (leicht scharf)
+              - superscript [ref=f3e59]: 1,4,A
+            - strong [ref=f3e60]: 3,50€
+          - generic [ref=f3e61]:
+            - generic [ref=f3e62]:
+              - text: 2. Hühnerfleisch Suppe und Gemüse
+              - superscript [ref=f3e63]: 4,1
+            - strong [ref=f3e64]: 4,00€
+          - generic [ref=f3e65]:
+            - generic [ref=f3e66]:
+              - text: 3. Tom Ka Gai mit Hühnerfleisch
+              - superscript [ref=f3e67]: 1,4,A,D
+            - strong [ref=f3e68]: 4,50€
+          - generic [ref=f3e69]:
+            - generic [ref=f3e70]:
+              - text: 4. Tom Ka Gung mit Garnelen
+              - superscript [ref=f3e71]: 1,4,A,D
+            - strong [ref=f3e72]: 5,00€
+          - generic [ref=f3e73]:
+            - generic [ref=f3e74]:
+              - text: 5. Tom-Yam-Gai mit Hühnerfleisch (scharf)
+              - superscript [ref=f3e75]: 1,4,A,D
+            - strong [ref=f3e76]: 4,50€
+          - generic [ref=f3e77]:
+            - generic [ref=f3e78]:
+              - text: 6. Tom-Yam-Gung mit Garnelen (scharf)
+              - superscript [ref=f3e79]: 1,4,A,D
+            - strong [ref=f3e80]: 5,00€
+          - generic [ref=f3e81]:
+            - generic [ref=f3e82]:
+              - text: 7. Vegetarische Mini-Frühlingsrolle mit Süss-Sauer-Sauce (8 Stk.)
+              - superscript [ref=f3e83]: "1"
+            - strong [ref=f3e84]: 4,00€
+          - generic [ref=f3e85]:
+            - generic [ref=f3e86]:
+              - text: 8. Vietnamesische Frühlingsrolle mit Sweet-Chili-sauce (4 Stk.)
+              - superscript [ref=f3e87]: 1,4,A
+            - strong [ref=f3e88]: 4,50€
+          - generic [ref=f3e89]:
+            - generic [ref=f3e90]:
+              - text: 9. Gebackene Garnelen mit Süss-sauer-sauce (4 Stk.)
+              - superscript [ref=f3e91]: "4"
+            - strong [ref=f3e92]: 5,00€
+          - generic [ref=f3e93]:
+            - generic [ref=f3e94]:
+              - text: 10. Vegetarische Veggie Gyoza mit Gemüse gefüllt (5 Stk.)
+              - superscript [ref=f3e95]: A
+            - strong [ref=f3e96]: 4,50€
+          - generic [ref=f3e97]:
+            - generic [ref=f3e98]:
+              - text: 11. Tori Gyoza mit Hühnerfleisch und Gemüse (5 Stk.)
+              - superscript [ref=f3e99]: A
+            - strong [ref=f3e100]: 5,00€
+          - generic [ref=f3e101]:
+            - generic [ref=f3e102]:
+              - text: 12. Edamame mit Meersalz
+              - superscript [ref=f3e103]: A
+            - strong [ref=f3e104]: 5,00€
+          - generic [ref=f3e105]:
+            - generic [ref=f3e106]:
+              - text: 13. Krabbenchips
+              - superscript [ref=f3e107]: B
+            - strong [ref=f3e108]: 3,00€
+        - generic [ref=f3e109]:
+          - heading "Gebratene Nudeln mit Gemüse, Ei und ..." [level=3] [ref=f3e110]:
+            - text: Gebratene Nudeln
+            - generic [ref=f3e111]: mit Gemüse, Ei und ...
+          - generic [ref=f3e112]:
+            - generic [ref=f3e113]:
+              - text: 20. Gemüse (Vegetarisch)
+              - superscript [ref=f3e114]: 1,4,A,M
+            - strong [ref=f3e115]: 8,00€
+          - generic [ref=f3e116]:
+            - generic [ref=f3e117]:
+              - text: 21. Tofu (Vegetarisch)
+              - superscript [ref=f3e118]: 1,4,A,M
+            - strong [ref=f3e119]: 9,00€
+          - generic [ref=f3e120]:
+            - generic [ref=f3e121]:
+              - text: 22. Hühnerfleisch
+              - superscript [ref=f3e122]: 1,4,A,M
+            - strong [ref=f3e123]: 9,50€
+          - generic [ref=f3e124]:
+            - generic [ref=f3e125]:
+              - text: 23. Rindfleisch
+              - superscript [ref=f3e126]: 1,4,A,M
+            - strong [ref=f3e127]: 10,50€
+          - generic [ref=f3e128]:
+            - generic [ref=f3e129]:
+              - text: 24. Garnelen
+              - superscript [ref=f3e130]: 1,4,A,M
+            - strong [ref=f3e131]: 12,00€
+          - generic [ref=f3e132]:
+            - generic [ref=f3e133]:
+              - text: 25. Crispy chicken
+              - superscript [ref=f3e134]: 1,4,A,M
+            - strong [ref=f3e135]: 10,50€
+          - generic [ref=f3e136]:
+            - generic [ref=f3e137]:
+              - text: 26. Knusprig Hühnerfleisch
+              - superscript [ref=f3e138]: 1,4,A,M
+            - strong [ref=f3e139]: 11,50€
+          - generic [ref=f3e140]:
+            - generic [ref=f3e141]:
+              - text: 27. Knusprig Ente
+              - superscript [ref=f3e142]: 1,4,A,M
+            - strong [ref=f3e143]: 12,00€
+          - generic [ref=f3e144]:
+            - generic [ref=f3e145]:
+              - text: 28. Bami Goreng (scharf)
+              - superscript [ref=f3e146]: 1,4,A,M
+              - text: mit Hühnerfleisch und Gemüse und Curry powder
+            - strong [ref=f3e147]: 10,50€
+        - generic [ref=f3e148]:
+          - heading "Gebratene Reis mit Gemüse, Ei und ..." [level=3] [ref=f3e149]:
+            - text: Gebratene Reis
+            - generic [ref=f3e150]: mit Gemüse, Ei und ...
+          - generic [ref=f3e151]:
+            - generic [ref=f3e152]:
+              - text: 30. Gemüse (Vegetarisch)
+              - superscript [ref=f3e153]: 1,4,A,M
+            - strong [ref=f3e154]: 8,00€
+          - generic [ref=f3e155]:
+            - generic [ref=f3e156]:
+              - text: 31. Tofu (Vegetarisch)
+              - superscript [ref=f3e157]: 1,4,A,M
+            - strong [ref=f3e158]: 9,00€
+          - generic [ref=f3e159]:
+            - generic [ref=f3e160]:
+              - text: 32. Hühnerfleisch
+              - superscript [ref=f3e161]: 1,4,A,M
+            - strong [ref=f3e162]: 9,50€
+          - generic [ref=f3e163]:
+            - generic [ref=f3e164]:
+              - text: 33. Rindfleisch
+              - superscript [ref=f3e165]: 1,4,A,M
+            - strong [ref=f3e166]: 10,50€
+          - generic [ref=f3e167]:
+            - generic [ref=f3e168]:
+              - text: 34. Garnelen
+              - superscript [ref=f3e169]: 1,4,A,M
+            - strong [ref=f3e170]: 12,00€
+          - generic [ref=f3e171]:
+            - generic [ref=f3e172]:
+              - text: 35. Crispy chicken
+              - superscript [ref=f3e173]: 1,4,A,M
+            - strong [ref=f3e174]: 10,50€
+          - generic [ref=f3e175]:
+            - generic [ref=f3e176]:
+              - text: 36. Knusprig Hühnerfleisch
+              - superscript [ref=f3e177]: 1,4,A,M
+            - strong [ref=f3e178]: 11,50€
+          - generic [ref=f3e179]:
+            - generic [ref=f3e180]:
+              - text: 37. Knusprig Ente
+              - superscript [ref=f3e181]: 1,4,A,M
+            - strong [ref=f3e182]: 12,00€
+          - generic [ref=f3e183]:
+            - generic [ref=f3e184]:
+              - text: 38. Nasi Goreng (scharf)
+              - superscript [ref=f3e185]: 1,4,A,M
+              - text: mit Hühnerfleisch und Gemüse und Curry powder
+            - strong [ref=f3e186]: 10,50€
+        - generic [ref=f3e187]:
+          - heading "Gebratene Udon Nudeln mit Gemüse und ..." [level=3] [ref=f3e188]:
+            - text: Gebratene Udon Nudeln
+            - generic [ref=f3e189]: mit Gemüse und ...
+          - generic [ref=f3e190]:
+            - generic [ref=f3e191]:
+              - text: 40. Gemüse (Vegetarisch)
+              - superscript [ref=f3e192]: 1,4,A,M
+            - strong [ref=f3e193]: 9,00€
+          - generic [ref=f3e194]:
+            - generic [ref=f3e195]:
+              - text: 41. Tofu (Vegetarisch)
+              - superscript [ref=f3e196]: 1,4,A,M
+            - strong [ref=f3e197]: 10,00€
+          - generic [ref=f3e198]:
+            - generic [ref=f3e199]:
+              - text: 42. Hühnerfleisch
+              - superscript [ref=f3e200]: 1,4,A,M
+            - strong [ref=f3e201]: 10,50€
+          - generic [ref=f3e202]:
+            - generic [ref=f3e203]:
+              - text: 43. Rindfleisch
+              - superscript [ref=f3e204]: 1,4,A,M
+            - strong [ref=f3e205]: 11,50€
+          - generic [ref=f3e206]:
+            - generic [ref=f3e207]:
+              - text: 44. Garnelen
+              - superscript [ref=f3e208]: 1,4,A,M
+            - strong [ref=f3e209]: 13,00€
+          - generic [ref=f3e210]:
+            - generic [ref=f3e211]:
+              - text: 45. Crispy chicken
+              - superscript [ref=f3e212]: 1,4,A,M
+            - strong [ref=f3e213]: 11,50€
+          - generic [ref=f3e214]:
+            - generic [ref=f3e215]:
+              - text: 46. Knusprig Hühnerfleisch
+              - superscript [ref=f3e216]: 1,4,A,M
+            - strong [ref=f3e217]: 12,50€
+          - generic [ref=f3e218]:
+            - generic [ref=f3e219]:
+              - text: 47. Knusprig Ente
+              - superscript [ref=f3e220]: 1,4,A,M
+            - strong [ref=f3e221]: 13,00€
+        - generic [ref=f3e222]:
+          - heading "Pad Thai mit Gemüse und ..." [level=3] [ref=f3e223]:
+            - text: Pad Thai
+            - generic [ref=f3e224]: mit Gemüse und ...
+          - generic [ref=f3e225]:
+            - generic [ref=f3e226]:
+              - text: 50. Gemüse (Vegetarisch)
+              - superscript [ref=f3e227]: 1,4,A,M
+            - strong [ref=f3e228]: 9,00€
+          - generic [ref=f3e229]:
+            - generic [ref=f3e230]:
+              - text: 51. Tofu (Vegetarisch)
+              - superscript [ref=f3e231]: 1,4,A,M
+            - strong [ref=f3e232]: 10,00€
+          - generic [ref=f3e233]:
+            - generic [ref=f3e234]:
+              - text: 52. Hühnerfleisch
+              - superscript [ref=f3e235]: 1,4,A,M
+            - strong [ref=f3e236]: 10,50€
+          - generic [ref=f3e237]:
+            - generic [ref=f3e238]:
+              - text: 53. Rindfleisch
+              - superscript [ref=f3e239]: 1,4,A,M
+            - strong [ref=f3e240]: 11,50€
+          - generic [ref=f3e241]:
+            - generic [ref=f3e242]:
+              - text: 54. Garnelen
+              - superscript [ref=f3e243]: 1,4,A,M
+            - strong [ref=f3e244]: 13,00€
+          - generic [ref=f3e245]:
+            - generic [ref=f3e246]:
+              - text: 55. Crispy chicken
+              - superscript [ref=f3e247]: 1,4,A,M
+            - strong [ref=f3e248]: 11,50€
+          - generic [ref=f3e249]:
+            - generic [ref=f3e250]:
+              - text: 56. Knusprig Hühnerfleisch
+              - superscript [ref=f3e251]: 1,4,A,M
+            - strong [ref=f3e252]: 12,50€
+          - generic [ref=f3e253]:
+            - generic [ref=f3e254]:
+              - text: 57. Knusprig Ente
+              - superscript [ref=f3e255]: 1,4,A,M
+            - strong [ref=f3e256]: 13,00€
+        - generic [ref=f3e257]:
+          - heading "Chop Suey mit Reis und Gemüse und..." [level=3] [ref=f3e258]:
+            - text: Chop Suey
+            - generic [ref=f3e259]: mit Reis und Gemüse und...
+          - generic [ref=f3e260]:
+            - generic [ref=f3e261]:
+              - text: 60. Gemüse (Vegetarisch)
+              - superscript [ref=f3e262]: 1,4,A
+            - strong [ref=f3e263]: 8,50€
+          - generic [ref=f3e264]:
+            - generic [ref=f3e265]:
+              - text: 61. Tofu (Vegetarisch)
+              - superscript [ref=f3e266]: 1,4,A
+            - strong [ref=f3e267]: 9,00€
+          - generic [ref=f3e268]:
+            - generic [ref=f3e269]:
+              - text: 62. Hühnerfleisch
+              - superscript [ref=f3e270]: 1,4,A
+            - strong [ref=f3e271]: 10,00€
+          - generic [ref=f3e272]:
+            - generic [ref=f3e273]:
+              - text: 63. Rindfleisch
+              - superscript [ref=f3e274]: 1,4
+            - strong [ref=f3e275]: 11,00€
+          - generic [ref=f3e276]:
+            - generic [ref=f3e277]:
+              - text: 64. Garnelen
+              - superscript [ref=f3e278]: "4"
+            - strong [ref=f3e279]: 12,50€
+          - generic [ref=f3e280]:
+            - generic [ref=f3e281]:
+              - text: 65. Crispy chicken
+              - superscript [ref=f3e282]: 1,4,A,I
+            - strong [ref=f3e283]: 11,00€
+          - generic [ref=f3e284]:
+            - generic [ref=f3e285]:
+              - text: 66. Knusprig Hühnerfleisch
+              - superscript [ref=f3e286]: 1,4,I
+            - strong [ref=f3e287]: 12,00€
+          - generic [ref=f3e288]:
+            - generic [ref=f3e289]:
+              - text: 67. Knusprig Ente
+              - superscript [ref=f3e290]: 1,4,I
+            - strong [ref=f3e291]: 12,50€
+        - generic [ref=f3e292]:
+          - heading "Kung-Pao (scharf) mit Reis, Gemüse und..." [level=3] [ref=f3e293]:
+            - text: Kung-Pao (scharf)
+            - generic [ref=f3e294]: mit Reis, Gemüse und...
+          - generic [ref=f3e295]:
+            - generic [ref=f3e296]:
+              - text: 70. Gemüse (Vegetarisch)
+              - superscript [ref=f3e297]: 1,4,A
+            - strong [ref=f3e298]: 8,50€
+          - generic [ref=f3e299]:
+            - generic [ref=f3e300]:
+              - text: 71. Tofu (Vegetarisch)
+              - superscript [ref=f3e301]: 1,4,A
+            - strong [ref=f3e302]: 9,00€
+          - generic [ref=f3e303]:
+            - generic [ref=f3e304]:
+              - text: 72. Hühnerfleisch
+              - superscript [ref=f3e305]: 1,4,A
+            - strong [ref=f3e306]: 10,00€
+          - generic [ref=f3e307]:
+            - generic [ref=f3e308]:
+              - text: 73. Rindfleisch
+              - superscript [ref=f3e309]: 1,4
+            - strong [ref=f3e310]: 11,00€
+          - generic [ref=f3e311]:
+            - generic [ref=f3e312]:
+              - text: 74. Garnelen
+              - superscript [ref=f3e313]: "4"
+            - strong [ref=f3e314]: 12,50€
+          - generic [ref=f3e315]:
+            - generic [ref=f3e316]:
+              - text: 75. Crispy chicken
+              - superscript [ref=f3e317]: 1,4,A,I
+            - strong [ref=f3e318]: 11,00€
+          - generic [ref=f3e319]:
+            - generic [ref=f3e320]:
+              - text: 76. Knusprig Hühnerfleisch
+              - superscript [ref=f3e321]: 1,4,I
+            - strong [ref=f3e322]: 12,00€
+          - generic [ref=f3e323]:
+            - generic [ref=f3e324]:
+              - text: 77. Knusprig Ente
+              - superscript [ref=f3e325]: 1,4,I
+            - strong [ref=f3e326]: 12,50€
+        - generic [ref=f3e327]:
+          - heading [level=3] [ref=f3e328]:
+            - text: Roter Curry Sauce
+            - generic [ref=f3e329]: mit Kokosmilch (scharf)mit Ries, Gemüse und...
+          - generic [ref=f3e330]:
+            - generic [ref=f3e331]:
+              - text: 80. Gemüse (Vegetarisch)
+              - superscript [ref=f3e332]: 1,4,A
+            - strong [ref=f3e333]: 8,50€
+          - generic [ref=f3e334]:
+            - generic [ref=f3e335]:
+              - text: 81. Tofu (Vegetarisch)
+              - superscript [ref=f3e336]: 1,4,A
+            - strong [ref=f3e337]: 9,00€
+          - generic [ref=f3e338]:
+            - generic [ref=f3e339]:
+              - text: 82. Hühnerfleisch
+              - superscript [ref=f3e340]: 1,4,A
+            - strong [ref=f3e341]: 10,00€
+          - generic [ref=f3e342]:
+            - generic [ref=f3e343]:
+              - text: 83. Rindfleisch
+              - superscript [ref=f3e344]: 1,4
+            - strong [ref=f3e345]: 11,00€
+          - generic [ref=f3e346]:
+            - generic [ref=f3e347]:
+              - text: 84. Garnelen
+              - superscript [ref=f3e348]: 1,4
+            - strong [ref=f3e349]: 12,50€
+          - generic [ref=f3e350]:
+            - generic [ref=f3e351]:
+              - text: 85. Crispy chicken
+              - superscript [ref=f3e352]: 1,4,A,I
+            - strong [ref=f3e353]: 11,00€
+          - generic [ref=f3e354]:
+            - generic [ref=f3e355]:
+              - text: 86. Knusprig Hühnerfleisch
+              - superscript [ref=f3e356]: 1,4,I
+            - strong [ref=f3e357]: 12,00€
+          - generic [ref=f3e358]:
+            - generic [ref=f3e359]:
+              - text: 87. Knusprig Ente
+              - superscript [ref=f3e360]: 1,4,I
+            - strong [ref=f3e361]: 12,50€
+        - generic [ref=f3e362]:
+          - heading [level=3] [ref=f3e363]:
+            - text: Gelber-Curry Sauce
+            - generic [ref=f3e364]: (leicht scharf)mit Ries, Gemüse und...
+          - generic [ref=f3e365]:
+            - generic [ref=f3e366]:
+              - text: 90. Gemüse (Vegetarisch)
+              - superscript [ref=f3e367]: 1,4,A
+            - strong [ref=f3e368]: 8,50€
+          - generic [ref=f3e369]:
+            - generic [ref=f3e370]:
+              - text: 91. Tofu (Vegetarisch)
+              - superscript [ref=f3e371]: 1,4,A
+            - strong [ref=f3e372]: 9,00€
+          - generic [ref=f3e373]:
+            - generic [ref=f3e374]:
+              - text: 92. Hühnerfleisch
+              - superscript [ref=f3e375]: 1,4,A
+            - strong [ref=f3e376]: 10,00€
+          - generic [ref=f3e377]:
+            - generic [ref=f3e378]:
+              - text: 93. Rindfleisch
+              - superscript [ref=f3e379]: 1,4
+            - strong [ref=f3e380]: 11,00€
+          - generic [ref=f3e381]:
+            - generic [ref=f3e382]:
+              - text: 94. Garnelen
+              - superscript [ref=f3e383]: 1,4
+            - strong [ref=f3e384]: 12,50€
+          - generic [ref=f3e385]:
+            - generic [ref=f3e386]:
+              - text: 95. Crispy chicken
+              - superscript [ref=f3e387]: 1,4,A,I
+            - strong [ref=f3e388]: 11,00€
+          - generic [ref=f3e389]:
+            - generic [ref=f3e390]:
+              - text: 96. Knusprig Hühnerfleisch
+              - superscript [ref=f3e391]: 1,4,I
+            - strong [ref=f3e392]: 12,00€
+          - generic [ref=f3e393]:
+            - generic [ref=f3e394]:
+              - text: 97. Knusprig Ente
+              - superscript [ref=f3e395]: 1,4,I
+            - strong [ref=f3e396]: 12,50€
+        - generic [ref=f3e397]:
+          - heading "Mango Curry mit Reis, Gemüse und..." [level=3] [ref=f3e398]:
+            - text: Mango Curry
+            - generic [ref=f3e399]: mit Reis, Gemüse und...
+          - generic [ref=f3e400]:
+            - generic [ref=f3e401]:
+              - text: 100. Gemüse (Vegetarisch)
+              - superscript [ref=f3e402]: 1,4,A
+            - strong [ref=f3e403]: 8,50€
+          - generic [ref=f3e404]:
+            - generic [ref=f3e405]:
+              - text: 101. Tofu (Vegetarisch)
+              - superscript [ref=f3e406]: 1,4,A
+            - strong [ref=f3e407]: 9,00€
+          - generic [ref=f3e408]:
+            - generic [ref=f3e409]:
+              - text: 102. Hühnerfleisch
+              - superscript [ref=f3e410]: 1,4,A
+            - strong [ref=f3e411]: 10,00€
+          - generic [ref=f3e412]:
+            - generic [ref=f3e413]:
+              - text: 103. Rindfleisch
+              - superscript [ref=f3e414]: 1,4
+            - strong [ref=f3e415]: 11,00€
+          - generic [ref=f3e416]:
+            - generic [ref=f3e417]:
+              - text: 104. Garnelen
+              - superscript [ref=f3e418]: 1,4
+            - strong [ref=f3e419]: 12,50€
+          - generic [ref=f3e420]:
+            - generic [ref=f3e421]:
+              - text: 105. Crispy chicken
+              - superscript [ref=f3e422]: 1,4,A,I
+            - strong [ref=f3e423]: 11,00€
+          - generic [ref=f3e424]:
+            - generic [ref=f3e425]:
+              - text: 106. Knusprig Hühnerfleisch
+              - superscript [ref=f3e426]: 1,4,I
+            - strong [ref=f3e427]: 12,00€
+          - generic [ref=f3e428]:
+            - generic [ref=f3e429]:
+              - text: 107. Knusprig Ente
+              - superscript [ref=f3e430]: 1,4,I
+            - strong [ref=f3e431]: 12,50€
+        - generic [ref=f3e432]:
+          - heading "Süss Sauer Sauce mit Reis und Gemüse und..." [level=3] [ref=f3e433]:
+            - text: Süss Sauer Sauce
+            - generic [ref=f3e434]: mit Reis und Gemüse und...
+          - generic [ref=f3e435]:
+            - generic [ref=f3e436]:
+              - text: 110. Gemüse (Vegetarisch)
+              - superscript [ref=f3e437]: 1,4,A
+            - strong [ref=f3e438]: 8,50€
+          - generic [ref=f3e439]:
+            - generic [ref=f3e440]:
+              - text: 111. Tofu (Vegetarisch)
+              - superscript [ref=f3e441]: 1,4,A
+            - strong [ref=f3e442]: 9,00€
+          - generic [ref=f3e443]:
+            - generic [ref=f3e444]:
+              - text: 112. Hühnerfleisch
+              - superscript [ref=f3e445]: 1,4,A
+            - strong [ref=f3e446]: 10,00€
+          - generic [ref=f3e447]:
+            - generic [ref=f3e448]:
+              - text: 113. Rindfleisch
+              - superscript [ref=f3e449]: 1,4
+            - strong [ref=f3e450]: 11,00€
+          - generic [ref=f3e451]:
+            - generic [ref=f3e452]:
+              - text: 114. Garnelen
+              - superscript [ref=f3e453]: 1,4
+            - strong [ref=f3e454]: 12,50€
+          - generic [ref=f3e455]:
+            - generic [ref=f3e456]:
+              - text: 115. Crispy chicken
+              - superscript [ref=f3e457]: 1,4,A,I
+            - strong [ref=f3e458]: 11,00€
+          - generic [ref=f3e459]:
+            - generic [ref=f3e460]:
+              - text: 116. Knusprig Hühnerfleisch
+              - superscript [ref=f3e461]: 1,4,I
+            - strong [ref=f3e462]: 12,00€
+          - generic [ref=f3e463]:
+            - generic [ref=f3e464]:
+              - text: 117. Knusprig Ente
+              - superscript [ref=f3e465]: 1,4,I
+            - strong [ref=f3e466]: 12,50€
+        - generic [ref=f3e467]:
+          - heading "Erdnuss-Sauce mit Reis, Gemüse und..." [level=3] [ref=f3e468]:
+            - text: Erdnuss-Sauce
+            - generic [ref=f3e469]: mit Reis, Gemüse und...
+          - generic [ref=f3e470]:
+            - generic [ref=f3e471]:
+              - text: 120. Gemüse (Vegetarisch)
+              - superscript [ref=f3e472]: 1,4,A
+            - strong [ref=f3e473]: 8,50€
+          - generic [ref=f3e474]:
+            - generic [ref=f3e475]:
+              - text: 121. Tofu (Vegetarisch)
+              - superscript [ref=f3e476]: 1,4,A
+            - strong [ref=f3e477]: 9,00€
+          - generic [ref=f3e478]:
+            - generic [ref=f3e479]:
+              - text: 122. Hühnerfleisch
+              - superscript [ref=f3e480]: 1,4,A
+            - strong [ref=f3e481]: 10,00€
+          - generic [ref=f3e482]:
+            - generic [ref=f3e483]:
+              - text: 123. Rindfleisch
+              - superscript [ref=f3e484]: 1,4
+            - strong [ref=f3e485]: 11,00€
+          - generic [ref=f3e486]:
+            - generic [ref=f3e487]:
+              - text: 124. Garnelen
+              - superscript [ref=f3e488]: 1,4
+            - strong [ref=f3e489]: 12,50€
+          - generic [ref=f3e490]:
+            - generic [ref=f3e491]:
+              - text: 125. Crispy chicken
+              - superscript [ref=f3e492]: 1,4,A,I
+            - strong [ref=f3e493]: 11,00€
+          - generic [ref=f3e494]:
+            - generic [ref=f3e495]:
+              - text: 126. Knusprig Hühnerfleisch
+              - superscript [ref=f3e496]: 1,4,I
+            - strong [ref=f3e497]: 12,00€
+          - generic [ref=f3e498]:
+            - generic [ref=f3e499]:
+              - text: 127. Knusprig Ente
+              - superscript [ref=f3e500]: 1,4,I
+            - strong [ref=f3e501]: 12,50€
+        - generic [ref=f3e502]:
+          - heading "Pfeffersauce (scharf) mit Reis, Gemüse und..." [level=3] [ref=f3e503]:
+            - text: Pfeffersauce (scharf)
+            - generic [ref=f3e504]: mit Reis, Gemüse und...
+          - generic [ref=f3e505]:
+            - generic [ref=f3e506]:
+              - text: 130. Gemüse (Vegetarisch)
+              - superscript [ref=f3e507]: 1,4,A
+            - strong [ref=f3e508]: 8,50€
+          - generic [ref=f3e509]:
+            - generic [ref=f3e510]:
+              - text: 131. Tofu (Vegetarisch)
+              - superscript [ref=f3e511]: 1,4,A
+            - strong [ref=f3e512]: 9,00€
+          - generic [ref=f3e513]:
+            - generic [ref=f3e514]:
+              - text: 132. Hühnerfleisch
+              - superscript [ref=f3e515]: 1,4,A
+            - strong [ref=f3e516]: 10,00€
+          - generic [ref=f3e517]:
+            - generic [ref=f3e518]:
+              - text: 133. Rindfleisch
+              - superscript [ref=f3e519]: 1,4
+            - strong [ref=f3e520]: 11,00€
+          - generic [ref=f3e521]:
+            - generic [ref=f3e522]:
+              - text: 134. Garnelen
+              - superscript [ref=f3e523]: 1,4
+            - strong [ref=f3e524]: 12,50€
+          - generic [ref=f3e525]:
+            - generic [ref=f3e526]:
+              - text: 135. Crispy chicken
+              - superscript [ref=f3e527]: 1,4,A,I
+            - strong [ref=f3e528]: 11,00€
+          - generic [ref=f3e529]:
+            - generic [ref=f3e530]:
+              - text: 136. Knusprig Hühnerfleisch
+              - superscript [ref=f3e531]: 1,4,I
+            - strong [ref=f3e532]: 12,00€
+          - generic [ref=f3e533]:
+            - generic [ref=f3e534]:
+              - text: 137. Knusprig Ente
+              - superscript [ref=f3e535]: 1,4,I
+            - strong [ref=f3e536]: 12,50€
+        - generic [ref=f3e537]:
+          - heading "Vietnamesische Spezialitäten mit frischem Salat, Kräutern, Reisnudeln und Fischsauce" [level=3] [ref=f3e538]:
+            - text: Vietnamesische Spezialitäten
+            - generic [ref=f3e539]: mit frischem Salat, Kräutern, Reisnudeln und Fischsauce
+          - generic [ref=f3e540]:
+            - generic [ref=f3e541]:
+              - text: V1. Bun Tofu
+              - superscript [ref=f3e542]: 4,B
+              - text: mit gebratenes Tofu
+            - strong [ref=f3e543]: 10,50€
+          - generic [ref=f3e544]:
+            - generic [ref=f3e545]:
+              - text: V2. Bun cha Gio
+              - superscript [ref=f3e546]: 4,B,A
+              - text: mit Vietnamesischem Frühlingsrollen
+            - strong [ref=f3e547]: 11,00€
+          - generic [ref=f3e548]:
+            - generic [ref=f3e549]:
+              - text: V3. Bun Thit Nuong
+              - superscript [ref=f3e550]: "4"
+              - text: mit gegrilltem Schweinefleisch
+            - strong [ref=f3e551]: 12,00€
+          - generic [ref=f3e552]:
+            - generic [ref=f3e553]:
+              - text: V4. Bun Bo Nan Bo
+              - superscript [ref=f3e554]: 4,H
+              - text: mit gebr. Rindfleisch, Knoblauch, Zitronengras
+            - strong [ref=f3e555]: 12,00€
+          - generic [ref=f3e556]:
+            - generic [ref=f3e557]:
+              - text: P1. Pho Bo (ein Nationalgericht aus Vietnam)
+              - superscript [ref=f3e558]: "4"
+              - text: aromatisch geschmorter Rindfleisch mit Reisbandnudeln und würziger Brühe, serviert mit frischen Kräutern
+            - strong [ref=f3e559]: 13,00€
+        - generic [ref=f3e560]:
+          - heading "Extra" [level=3] [ref=f3e561]
+          - generic [ref=f3e562]:
+            - generic [ref=f3e563]: B1. Gekochter Reis
+            - strong [ref=f3e564]: 2,50€
+          - generic [ref=f3e565]:
+            - generic [ref=f3e566]: B2. Soße Süss-Sauer-Soße
+            - strong [ref=f3e567]: 2,00€
+          - generic [ref=f3e568]:
+            - generic [ref=f3e569]: B3. Erdnuss-soße
+            - strong [ref=f3e570]: 2,00€
+          - generic [ref=f3e571]:
+            - generic [ref=f3e572]: B4. Mango-Sauce
+            - strong [ref=f3e573]: 2,00€
+          - generic [ref=f3e574]:
+            - generic [ref=f3e575]: B5. Glückskeks (4 Stk.)
+            - strong [ref=f3e576]: 2,00€
+          - generic [ref=f3e577]:
+            - generic [ref=f3e578]: B6. Soja Sauce
+            - strong [ref=f3e579]: 0,50€
+          - generic [ref=f3e580]:
+            - generic [ref=f3e581]: B7. Sambal Olek
+            - strong [ref=f3e582]: 0,50€
+          - generic [ref=f3e583]:
+            - generic [ref=f3e584]: B8. Crispy Chicken
+            - strong [ref=f3e585]: 4,50€
+          - generic [ref=f3e586]:
+            - generic [ref=f3e587]: B9. Hähnchenfleisch Knusprig
+            - strong [ref=f3e588]: 4,50€
+          - generic [ref=f3e589]:
+            - generic [ref=f3e590]: B10. Ente
+            - strong [ref=f3e591]: 5,50€
+          - generic [ref=f3e592]:
+            - generic [ref=f3e593]: B11. Garnelen
+            - strong [ref=f3e594]: 5,50€
+        - generic [ref=f3e595]:
+          - heading "Getränke" [level=3] [ref=f3e596]
+          - generic [ref=f3e597]:
+            - generic [ref=f3e598]: G1. Alt Fl. 0,50L
+            - strong [ref=f3e599]: 2,00€
+          - generic [ref=f3e600]:
+            - generic [ref=f3e601]: G2. Pils Fl. 0,50L
+            - strong [ref=f3e602]: 2,00€
+          - generic [ref=f3e603]:
+            - generic [ref=f3e604]: G3. Cola, Fanta, Sprite Dose 0,33L
+            - strong [ref=f3e605]: 2,00€
+          - generic [ref=f3e606]:
+            - generic [ref=f3e607]: G4. Cola, Fanta, Sprit Fl. 1L
+            - strong [ref=f3e608]: 3,50€
+          - generic [ref=f3e609]:
+            - generic [ref=f3e610]: G5. Asia-Fruchtsäfte Lychee, Mango, Kokos Dose 0,25L
+            - strong [ref=f3e611]: 3,00€
+        - generic [ref=f3e612]:
+          - heading "Inhaltsstoffe" [level=3] [ref=f3e613]
+          - paragraph [ref=f3e614]: 1. Farbstoff | 2. Konservierungsstoff | 3. Antioxidationsmittel4. Geschmacksverstärker | 5. Schwelte | 6. Schwarze7. Wachs | 8. Phosphat
+        - generic [ref=f3e615]:
+          - heading "Allergene" [level=3] [ref=f3e616]
+          - paragraph [ref=f3e617]: a. Eier | b. Fisch | c. Krebstiere | d. Milchh. Erdnüsse | m. Sojabohnen | n. Weichtiere | i. Weizen
+      - paragraph [ref=f3e618]: "Zusatzstoffe: 1 Farbstoff · 2 Konservierungsstoff · 3 Antioxidationsmittel · 4 Geschmacksverstärker · 6 Schwärze · 7 Wachs · 8 Phosphat. Allergene: a Eier · b Fisch · c Krebstiere · d Milch · h Erdnüsse · m Sojabohnen · n Weichtiere · i Weizen."
+    - generic [ref=f3e620]:
+      - heading "Unser Imbiss" [level=2] [ref=f3e621]
+      - generic [ref=f3e622]:
+        - generic [ref=f3e623]:
+          - heading "Frisch aus der Küche" [level=3] [ref=f3e624]
+          - paragraph [ref=f3e625]: Bei uns wird direkt vor Ort gekocht, gewürzt und angerichtet. Kräuter, Brühe und Wokgerichte bekommen die Aufmerksamkeit, die sie verdienen.
+          - generic [ref=f3e626]:
+            - strong [ref=f3e627]: Zum Mitnehmen oder vor Ort genießen
+            - link "0213 16647768" [ref=f3e628] [cursor=pointer]:
+              - /url: tel:+4921316647768
+        - img "Koch garniert eine Pho-Suppe" [ref=f3e629]
+      - generic [ref=f3e630]:
+        - img "Innenraum des Asia Imbiss" [ref=f3e631]
+        - generic [ref=f3e632]:
+          - heading "Einfach ankommen" [level=3] [ref=f3e633]
+          - paragraph [ref=f3e634]: Ein kleiner, warmer Ort in Neuss für eine schnelle Mittagspause, ein entspanntes Abendessen oder dein Lieblingsgericht zum Mitnehmen.
+          - link "Kontakt & Öffnungszeiten" [ref=f3e635] [cursor=pointer]:
+            - /url: "#contact"
+    - generic [ref=f3e637]:
+      - heading "Mehr entdecken" [level=2] [ref=f3e638]
+      - paragraph [ref=f3e639]: Asiatische Küche, frisch und herzlich serviert.
+    - generic [ref=f3e641]:
+      - heading "Kontakt" [level=2] [ref=f3e642]
+      - generic [ref=f3e643]:
+        - generic [ref=f3e644]:
+          - heading "Bis gleich in Neuss." [level=3] [ref=f3e645]
+          - paragraph [ref=f3e646]: Jülicher 3641464 Neuss, Deutschland
+          - paragraph [ref=f3e647]: Montag – Sonntag11:00 – 21:00 Uhr
+          - link "Route planen" [ref=f3e648] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Jülicher+36%2C+41464+Neuss
+        - img "Asiatische Gerichte zum Mitnehmen" [ref=f3e649]
+  - contentinfo [ref=f3e650]:
+    - generic [ref=f3e651]:
+      - generic [ref=f3e652]:
+        - generic [ref=f3e653]:
+          - link "1985ASIA IMBISS" [ref=f3e654] [cursor=pointer]:
+            - /url: "#top"
+          - paragraph [ref=f3e655]: Vietnamesische, chinesische und thailändische Küche in Neuss.
+        - generic [ref=f3e656]:
+          - heading "Öffnungszeiten" [level=4] [ref=f3e657]
+          - paragraph [ref=f3e658]: Montag – Sonntag11:00 – 21:00 Uhr
+        - generic [ref=f3e659]:
+          - heading "Links" [level=4] [ref=f3e660]
+          - link "Speisekarte" [ref=f3e661] [cursor=pointer]:
+            - /url: "#menu"
+          - link "Über uns" [ref=f3e662] [cursor=pointer]:
+            - /url: "#about"
+          - link "Kontakt" [ref=f3e663] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=f3e664]:
+          - heading "Kontakt" [level=4] [ref=f3e665]
+          - link "0213 16647768" [ref=f3e666] [cursor=pointer]:
+            - /url: tel:+4921316647768
+          - link "Jülicher 36, Neuss" [ref=f3e667] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Jülicher+36%2C+41464+Neuss
+      - generic [ref=f3e668]: © 2026 1985 Asia Imbiss · Alle Rechte vorbehalten.
